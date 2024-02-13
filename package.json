@@ -4,7 +4,8 @@
   "keywords": [
     "descriptive",
     "related",
-    "words"
+    "words",
+    "freecodecamp"
   ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
